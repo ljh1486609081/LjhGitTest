@@ -3,4 +3,4 @@ this is second w
 this is third w
 this is fourth w
 this is fisrt w on fstBranch
-this is second w on secBranch
+this is second w on secBranch master want w on this line
