@@ -2,5 +2,5 @@ this is first w
 this is second w
 this is third w
 this is fourth w
-this is fisrt w on fstBranch
+this is fisrt w on fstBranch fstBranch want w on this line
 this is second w on secBranch
